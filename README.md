@@ -10,8 +10,8 @@ A new Flutter project.
 
 ### Tampilan Halaman list quote
 
-![img1](asset/list.png)
-
+![img1](background/list1.png)
+![img1](background/list2.png)
 
 ```Dart
 import 'package:flutter/material.dart';
@@ -115,8 +115,8 @@ class ListQuote extends StatelessWidget {
 
 ### Tampilan halaman random quote
 
-![img1](asset/random.png)
-![img1](asset/1.png)
+![img1](background/quote.png)
+![img1](background/quote2.png)
 
 ```Dart
 import 'package:flutter/material.dart';
